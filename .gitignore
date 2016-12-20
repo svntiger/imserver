@@ -1,0 +1,17 @@
+# untrack folder
+.config.old
+*.o
+*.a
+*.ko
+*.so
+*.bin
+cscope.*
+tags
+bin/
+.svn
+*.swp
+*.diff
+*.gz
+*.bz
+*.xz
+.config
