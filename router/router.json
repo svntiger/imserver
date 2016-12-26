@@ -1,0 +1,19 @@
+{
+	"level_edge" : 1,
+	"area" : 0,
+
+	"prev_dispose" : [
+		{
+			"addr" : "192.168.1.1",
+			"port" : 8080
+		}
+	],
+
+	"next_dispose" : [
+		{
+			"area" : 1
+			"addr" : "192.168.1.2",
+			"port" : 8080
+		}
+	]
+}
